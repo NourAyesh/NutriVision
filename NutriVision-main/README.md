@@ -1,6 +1,18 @@
 # **_NutriVision: an Integrated Food Recognition, Calorie Estimation, and Recipe Recommendation System_**
 
-This study introduces an advanced deep learning system tailored for food recognition, offering users the option of obtaining calorie estimations or recipe recommendations based on input images. Positioned at the intersection of health informatics and computer vision, the project endeavors to elevate nutritional management capabilities. With a specific emphasis on reinforcing robust deep learning models, particularly leveraging the ResNet50 architecture renowned for its adeptness in image classification, the project meticulously trains and validates using the extensive "Food-101" dataset, ensuring a comprehensive spectrum of food item recognition.
+This project leverages deep learning techniques, specifically the ResNet50 architecture, to build an advanced food recognition system. Trained on the Food101 dataset, the system can accurately recognize a variety of food items from images and provide nutritional insights through calorie estimation and personalized recipe recommendations.
 
-Upon identifying food items from input images, the system seamlessly transitions to a phase of nutritional scrutiny, engaging external APIs( *CaloriesNinja* for calorie estimation and *Edamam*'s "Recipe_Search" for recipe suggestions) for meticulous calorie estimation and recipe retrieval. This integration facilitates detailed insights into recognized food items, encompassing their caloric content and constituent ingredients. The amalgamation of expansive nutritional data with ResNet50's proficient image recognition heralds a noteworthy advancement in dietary tracking methodologies, completely addressing persisting concerns regarding precision, variety, and user accessibility in prevailing nutritional management tools.
+Key features:
 
+Food Recognition: Classifies food items from images using ResNet50.
+
+Calorie Estimation: Integrates with CaloriesNinja API for precise calorie calculations.
+
+Recipe Recommendations: Uses Edamam API to fetch personalized recipes based on recognized food items.
+
+Key Achievements:
+High accuracy in food recognition with ResNet50.
+
+Successful integration with external APIs for calorie estimation and recipe retrieval.
+
+Challenges addressed include dataset diversity, model optimization, and precise API query structuring.
