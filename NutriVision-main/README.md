@@ -16,3 +16,4 @@ High accuracy in food recognition with ResNet50.
 Successful integration with external APIs for calorie estimation and recipe retrieval.
 
 Challenges addressed include dataset diversity, model optimization, and precise API query structuring.
+![Uploading image.png…]()
