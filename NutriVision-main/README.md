@@ -17,3 +17,4 @@ Successful integration with external APIs for calorie estimation and recipe retr
 
 Challenges addressed include dataset diversity, model optimization, and precise API query structuring.
 
+https://www.canva.com/design/DAGj4cu1vmM/ZFY4DmKFiDZ0ehgfhNJmQA/edit?utm_content=DAGj4cu1vmM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
